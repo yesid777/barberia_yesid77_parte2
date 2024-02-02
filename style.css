@@ -1,0 +1,53 @@
+.titululo-principal{
+    padding-left: 30px;
+}
+
+.principal {
+    background: #CCCCCC;/*color de fondo*/
+    padding: 20px;/*espacio dentro del cuadro*/
+}
+
+#banner{
+    width: 100%;/*Ancho*/
+}
+
+.titulo-centralizado{
+    text-align: center;/*centrar el texto*/
+}
+
+p{
+    text-align: center; /*ALINEADO AL CENTRO*/
+}
+
+
+em strong{
+    color: red; /*GREGAR COLOR ROJO AL TEXTO SUBRAYADO QUE TIENE CURSIVA(em)*/
+}
+
+/* MODIFICA EL h1 CON is mision, NO AFECTA NINGUNO DIFERENTE */
+#mision{
+    font-size: 20px;
+}
+
+/* Prara referenciar una clase en CSS podemos usar un . */
+
+.diferenciales{
+    background: white;
+    padding: 30px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;/* La lista solo ocupara su tamaño en la pagina */
+    vertical-align: top;/*aliniacion verticarl arriba*/
+    width: 20%;
+    margin-right: 15%; /*tamaño de margen a la derecha*/
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
+
